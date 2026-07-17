@@ -7,8 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1929-concatenation-of-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1672-richest-customer-wealth/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
