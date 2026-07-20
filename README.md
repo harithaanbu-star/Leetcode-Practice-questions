@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0007-reverse-integer/) | Medium |
+| [0070-climbing-stairs](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
@@ -83,4 +84,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0011-container-with-most-water/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
