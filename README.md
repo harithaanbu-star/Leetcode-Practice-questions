@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0258-add-digits/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
