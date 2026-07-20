@@ -3,10 +3,13 @@ class Solution {
         String title="";
         int n=columnNumber;
         while(n!=0){
-            n=n-1;
             int digit = n%26;
-            n=n/26;
-            title=(char)(digit+65) +title;
+            if (digit==0){digit=26 ;
+           n=(n/26) -1 ;}
+           else{
+            n/=26;
+           }
+            title= (char)(digit+64) + title;
          
         }
         return title;
