@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
@@ -98,8 +99,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
