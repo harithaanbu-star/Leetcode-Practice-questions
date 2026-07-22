@@ -9,7 +9,7 @@ class Solution {
             }
         }
         for(Map.Entry<Integer,Integer> m : map.entrySet()){
-            if(m.getValue()<=1){
+            if(m.getValue()==1){
                 return m.getKey();
             }
         }
