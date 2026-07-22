@@ -4,26 +4,21 @@ class Solution {
         for(int num : nums){
                  set.add(num);
         }
-        int [] ne= new int[set.size()];
-        int i=0;
-        for(int n: set){
-            ne[i]=n;
-            i++;
-        }
+        
         int large=Integer.MIN_VALUE;
         int second=0;
         int third=0;
-            for(int j=0;j<ne.length;j++){
-                if(ne[j]>large){
+            for(int nu:set){
+                if(nu>large){
                     third=second;
                     second=large;
-                    large=ne[j];
+                    large=nu;
                 }else{
-                    if(ne[j]>second){
+                    if(nu>second){
                         third=second;
-                        second=ne[j];
-                    }else if (ne[j]>third){
-                        third=ne[j];
+                        second=nu;
+                    }else if (nu>third){
+                        third=nu;
                     }
                 }
             }
