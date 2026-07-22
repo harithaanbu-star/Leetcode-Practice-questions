@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0414-third-maximum-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1470-shuffle-the-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -119,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0509-fibonacci-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
