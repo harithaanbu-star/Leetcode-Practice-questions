@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0383-ransom-note/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0383-ransom-note](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0383-ransom-note/) | Easy |
 | [0443-string-compression](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0443-string-compression/) | Medium |
+| [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
