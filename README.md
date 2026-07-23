@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0283-move-zeroes/) | Easy |
+| [0443-string-compression](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0443-string-compression/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0443-string-compression](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0443-string-compression/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
