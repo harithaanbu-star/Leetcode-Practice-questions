@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0929-unique-email-addresses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0383-ransom-note/) | Easy |
 | [0771-jewels-and-stones](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0929-unique-email-addresses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Divide and Conquer
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0443-string-compression/) | Medium |
 | [0771-jewels-and-stones](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0929-unique-email-addresses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Bit Manipulation
