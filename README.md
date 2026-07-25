@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0383-ransom-note/) | Easy |
+| [0392-is-subsequence](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0070-climbing-stairs/) | Easy |
+| [0392-is-subsequence](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
