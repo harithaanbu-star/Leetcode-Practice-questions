@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0811-subdomain-visit-count](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0881-boats-to-save-people](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0383-ransom-note/) | Easy |
 | [0771-jewels-and-stones](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0811-subdomain-visit-count](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0929-unique-email-addresses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0383-ransom-note/) | Easy |
+| [0811-subdomain-visit-count](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Binary Search
@@ -147,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0811-subdomain-visit-count](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0929-unique-email-addresses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
