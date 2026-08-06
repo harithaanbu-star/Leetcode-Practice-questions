@@ -11,7 +11,6 @@ class Solution {
             left--;
             right++;
             if(left<0 && right>=s.length()) break;   
-              
             }
             String pl =s.substring(left+1,right);
             if(pl.length()>p.length()){
