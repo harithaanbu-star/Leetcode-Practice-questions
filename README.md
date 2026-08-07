@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0118-pascals-triangle/) | Easy |
+| [0134-gas-station](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0011-container-with-most-water/) | Medium |
+| [0134-gas-station](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0134-gas-station/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0948-bag-of-tokens/) | Medium |
