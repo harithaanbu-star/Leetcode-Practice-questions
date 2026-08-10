@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0929-unique-email-addresses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Bit Manipulation
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
