@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0443-string-compression/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0811-subdomain-visit-count/) | Medium |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,4 +355,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 <!---LeetCode Topics End-->
