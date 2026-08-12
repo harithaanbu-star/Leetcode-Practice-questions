@@ -1,6 +1,6 @@
 class Solution {
         static  boolean isAlphanum(char c){
-            if((c<='Z' && c>= 'A') || (c<='z' && c>='a') || (c<='9' && c>='0')){
+            if( (c<='z' && c>='a') || (c<='9' && c>='0')){
                 return true;
             }else return false;
         }
