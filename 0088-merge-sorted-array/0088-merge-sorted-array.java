@@ -3,18 +3,19 @@ class Solution {
         int i=0;
         int j=0;
         int k=0;
-        int[] nums3=nums1.clone();
-        while(j<m && k<n){
-            if(nums3[j]<=nums2[k]){
-                nums1[i]=nums3[j];
-                j++;
-            }else{
-                nums1[i]=nums2[k];
+        int[] num=nums1.clone();
+        while(i<m && j<n){
+            if(num[i]<=nums2[j]){
+                nums1[k]=num[i];
                 k++;
+                i++;
+            }else if(nums2[j]<num[i]){
+                nums1[k]=nums2[j];
+                k++;
+                j++;
             }
-            i++;
         }
-        while( k<n )nums1[i++]=nums2[k++]; 
-        while(j<m )nums1[i++]=nums3[j++];
+        while(i<m && j==n){nums1[k]=num[i];i++;k++;}
+        while(j<n && i==m){nums1[k]=nums2[j]; j++;k++;}
     }
 }
