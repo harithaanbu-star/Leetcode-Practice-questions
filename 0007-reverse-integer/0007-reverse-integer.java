@@ -3,6 +3,7 @@ class Solution {
         int max= Integer.MAX_VALUE;
         int min= Integer.MIN_VALUE;
         int z=0;
+        int xxx=0;
         while(x!=0){
             int last=x%10;
            
