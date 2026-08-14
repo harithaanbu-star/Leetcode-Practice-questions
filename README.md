@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0383-ransom-note/) | Easy |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0414-third-maximum-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0414-third-maximum-number/) | Easy |
