@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0053-maximum-subarray/) | Medium |
@@ -399,5 +401,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0090-subsets-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0090-subsets-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
