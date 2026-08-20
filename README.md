@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0202-happy-number/) | Easy |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0234-palindrome-linked-list/) | Easy |
