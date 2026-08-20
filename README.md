@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0383-ransom-note/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0412-fizz-buzz/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0443-string-compression/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0904-fruit-into-baskets/) | Medium |
