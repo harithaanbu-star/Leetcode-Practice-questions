@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-even-multiple](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
