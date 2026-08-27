@@ -16,7 +16,8 @@
 class Solution {
     int maxheight=Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
-        return Math.max(maxpath(root),maxheight);
+        maxpath(root);
+        return maxheight;
     }
 
     public int maxpath(TreeNode root){
@@ -24,7 +25,7 @@ class Solution {
         int left = Math.max(0,maxpath(root.left));
         int right= Math.max(0,maxpath(root.right));
         int center=root.val +left+right;
-        this.maxheight=Math.max(this.maxheight,center);
+        maxheight=Math.max(maxheight,center);
         return root.val+Math.max(left,right);
     }
 }
