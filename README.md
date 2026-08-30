@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1089-duplicate-zeros](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0739-daily-temperatures/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -420,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0739-daily-temperatures/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -531,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -563,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
