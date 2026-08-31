@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0463-island-perimeter](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
@@ -518,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -571,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0463-island-perimeter](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
