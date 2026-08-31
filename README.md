@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
