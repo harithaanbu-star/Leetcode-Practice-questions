@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1089-duplicate-zeros](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1089-duplicate-zeros/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
@@ -573,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0841-keys-and-rooms](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
