@@ -460,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0841-keys-and-rooms](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -595,4 +598,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
