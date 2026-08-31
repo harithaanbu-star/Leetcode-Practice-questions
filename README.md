@@ -491,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
@@ -573,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
