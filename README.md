@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
