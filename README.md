@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2119-a-number-after-a-double-reversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2544-alternating-digit-sum/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0258-add-digits/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
