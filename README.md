@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0645-set-mismatch/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Greedy
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
