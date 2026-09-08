@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0012-integer-to-roman/) | Medium |
 | [0029-divide-two-integers](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0029-divide-two-integers/) | Medium |
+| [0050-powx-n](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0326-power-of-three/) | Easy |
