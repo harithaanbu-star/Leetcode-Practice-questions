@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0509-fibonacci-number/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0367-valid-perfect-square/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## String
