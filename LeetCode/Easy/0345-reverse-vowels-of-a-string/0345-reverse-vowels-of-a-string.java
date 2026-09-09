@@ -5,7 +5,7 @@ class Solution {
         String a="";
         ArrayList<Character> list = new ArrayList<>(Arrays.asList('a','e','i','o','u','A','E','I','O','U'));
         char[] arr = s.toCharArray();
-        r=arr.length-1;
+       // r=arr.length-1;
         while(l<=r){
             if(list.contains(arr[l]) && list.contains(arr[r])){
                 char te=arr[l];
