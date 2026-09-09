@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3870-count-commas-in-range](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Number Theory
