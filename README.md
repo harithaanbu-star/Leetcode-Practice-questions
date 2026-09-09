@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1584-min-cost-to-connect-all-points/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3527-find-the-most-common-response](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/3527-find-the-most-common-response/) | Medium |
 ## Bit Manipulation
