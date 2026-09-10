@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0130-surrounded-regions](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0463-island-perimeter](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
