@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
 ## Sorting
@@ -285,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
@@ -297,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0811-subdomain-visit-count/) | Medium |
@@ -534,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -762,4 +768,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
