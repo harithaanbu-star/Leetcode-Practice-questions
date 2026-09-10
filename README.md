@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2544-alternating-digit-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/2614-prime-in-diagonal/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3870-count-commas-in-range](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
@@ -740,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0204-count-primes/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
