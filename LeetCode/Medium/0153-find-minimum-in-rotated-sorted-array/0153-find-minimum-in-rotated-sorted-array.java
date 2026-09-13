@@ -8,11 +8,9 @@ class Solution {
                 s=m+1;
             }
             else{
-                e=m-1;
+                e=m;
             }
-            if(nums[m]< nums[s] && nums[m]<nums[e]){
-                return nums[m];
-            }
+            //
         }
         return nums[s];
     }
