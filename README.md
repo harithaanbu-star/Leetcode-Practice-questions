@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0835-image-overlap](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [0695-max-area-of-island](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0835-image-overlap](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1476-subrectangle-queries](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1476-subrectangle-queries/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
