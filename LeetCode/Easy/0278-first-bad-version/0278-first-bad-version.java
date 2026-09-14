@@ -3,16 +3,17 @@
 
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
-        int left=1;
-        int right =n;
-        while(left<right){
-            int mid=left+(right-left)/2;
-            if(isBadVersion(mid)){
-                right=mid;
+        int l=1;
+        int r=n;
+        while(l<r){
+            int m =l+(r-l)/2;
+            if(isBadVersion(m)){
+                r=m;
             }else{
-                left=mid+1;
+                l=m+1;
             }
         }
-        return right;
+        if(l==r && isBadVersion(l)) return l;
+        return -1;
     }
 }
