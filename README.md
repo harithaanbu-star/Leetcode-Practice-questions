@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1030-matrix-cells-in-distance-order](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1089-duplicate-zeros](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
+| [1030-matrix-cells-in-distance-order](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1476-subrectangle-queries](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1476-subrectangle-queries/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0633-sum-of-square-numbers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1492-the-kth-factor-of-n/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
@@ -327,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [0948-bag-of-tokens](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0948-bag-of-tokens/) | Medium |
+| [1030-matrix-cells-in-distance-order](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Counting
@@ -852,4 +856,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 <!---LeetCode Topics End-->
