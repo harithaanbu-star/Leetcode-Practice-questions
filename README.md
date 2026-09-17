@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1052-grumpy-bookstore-owner](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1089-duplicate-zeros](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1476-subrectangle-queries](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1476-subrectangle-queries/) | Medium |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-longest-turbulent-subarray](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0978-longest-turbulent-subarray/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1052-grumpy-bookstore-owner](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
