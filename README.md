@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1590-make-sum-divisible-by-p/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/3138-minimum-length-of-anagram-concatenation/) | Medium |
