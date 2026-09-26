@@ -26,12 +26,12 @@ class Solution {
         }
         while(list1!=null && list2==null){
                 node.next=list1;
-                node=node.next;
+                node=list1;
                 list1=list1.next;
         }
         while(list2!=null && list1==null){
                 node.next=list2;
-                node=node.next;
+                node=list2;
                 list2=list2.next;
         }
 
