@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0066-plus-one/) | Easy |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
@@ -352,7 +354,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0169-majority-element/) | Easy |
-| [0191-number-of-1-bits](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0022-generate-parentheses/) | Medium |
@@ -500,7 +502,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0136-single-number/) | Easy |
-| [0191-number-of-1-bits](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0645-set-mismatch/) | Easy |
