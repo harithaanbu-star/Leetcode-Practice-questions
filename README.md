@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0645-set-mismatch/) | Easy |
