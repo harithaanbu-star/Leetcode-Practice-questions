@@ -482,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0929-unique-email-addresses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -688,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
