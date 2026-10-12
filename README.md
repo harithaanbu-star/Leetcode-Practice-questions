@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/2389-longest-subsequence-with-limited-sum/) | Easy |
@@ -709,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -716,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/2104-sum-of-subarray-ranges/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
