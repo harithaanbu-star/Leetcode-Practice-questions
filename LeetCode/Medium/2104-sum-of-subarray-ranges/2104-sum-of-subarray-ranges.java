@@ -8,7 +8,7 @@ class Solution {
                 max=Math.max(max,nums[j]);
                 min=Math.min(min,nums[j]);
                 sum+=max-min;
-                
+               // System.out.println(sum);
             }
             
         }
