@@ -5,10 +5,12 @@ class Solution {
             int max=nums[i];
             int min=nums[i];
             for(int j=i;j<nums.length;j++){
-                max= Math.max(max,nums[j]);
+                max=Math.max(max,nums[j]);
                 min=Math.min(min,nums[j]);
                 sum+=max-min;
+                
             }
+            
         }
         return sum;
     }
