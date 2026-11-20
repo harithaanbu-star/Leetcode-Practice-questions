@@ -7,6 +7,8 @@ class MinStack {
         minst = new Stack<>();
     }
     
+
+    
     public void push(int value) {
         if(!minst.isEmpty()){
             if(minst.peek()>=value){
