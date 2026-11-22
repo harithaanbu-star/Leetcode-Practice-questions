@@ -11,11 +11,14 @@ class Solution {
             }
         }
         int cnt=0;
+        ArrayList<Integer> list = new ArrayList<>();
         for(int i=0;i<n;i++){
             if(prime[i]){
                 cnt++;
+                list.add(i);
             }
         }
+       // System.out.println(list);
         return cnt;
     }
 }
