@@ -6,9 +6,13 @@ class Solution {
                 return digits;
             }
             digits[i]=0;
+            System.out.println(Arrays.toString(digits));
         }
         int [] ans = new int[digits.length+1];
+        System.out.println(Arrays.toString(ans));
         ans[0]=1;
+        System.out.println(Arrays.toString(ans));
         return ans;
+        
     }
 }
