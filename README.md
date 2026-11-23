@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0147-insertion-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0164-maximum-gap/) | Medium |
@@ -927,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -1074,4 +1078,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
