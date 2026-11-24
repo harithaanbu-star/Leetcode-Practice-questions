@@ -8,13 +8,10 @@ class Solution {
                 st.push(s.charAt(i));
             }
         }
-        String arr[] = new String[st.size()];
-        for(int i=st.size()-1;i>=0;i--){
-            arr[i]=String.valueOf(st.pop());
-        }
-        String ss = "";
-        for(int i=0;i<arr.length;i++){
-            ss+=arr[i];
+        String ss ="";
+        int si=st.size();
+        for(int i=0;i<si;i++){
+            ss=st.pop()+ss;
         }
         return ss;
     }
