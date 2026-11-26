@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0811-subdomain-visit-count](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0835-image-overlap](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0867-transpose-matrix](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
+| [0867-transpose-matrix](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/1030-matrix-cells-in-distance-order/) | Easy |
 | [1476-subrectangle-queries](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/1476-subrectangle-queries/) | Medium |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
+| [0867-transpose-matrix](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harithaanbu-star/Leetcode-Practice-questions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
